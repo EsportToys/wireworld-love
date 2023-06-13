@@ -1,0 +1,2 @@
+(start "Downloading Love2D" cmd /c "curl --create-dirs -o love/love.zip https://github.com/love2d/love/releases/download/11.4/love-11.4-win64.zip -J -L && tar -xf love/love.zip --strip-components=1 --directory=love && del love\love.zip") | pause
+exit

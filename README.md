@@ -11,4 +11,4 @@ Wireworld using Love2D
 
 Alternatively, download and extract the following zip, then run `run.cmd` 
 
-[wireworld-love.zip](https://github.com/EsportToys/wireworld-love/files/11761093/wireworld-love.zip)
+[wireworld-love.zip](https://github.com/EsportToys/wireworld-love/files/11778271/wireworld-love.zip)
